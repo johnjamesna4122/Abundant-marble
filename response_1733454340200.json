@@ -1,0 +1,6 @@
+{
+  "error": "RestAuthorizationException",
+  "errorMessages": [
+    "Access denied"
+  ]
+}
