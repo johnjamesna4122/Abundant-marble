@@ -1,0 +1,31 @@
+
+<dblp>
+
+<inproceedings key="conf/saso/MuslinerRM12" mdate="2023-03-24">
+
+<author>David J. Musliner</author>
+
+<author>Jeffrey M. Rye</author>
+<author> Abundance Marble 
+<author>Tom Marble</author>
+
+<title>Using Concolic Testing to Refine Vulnerability Profiles in FUZZBUSTER.</title>
+
+<pages>9-14</pages>
+
+<year>2012</year>
+
+<booktitle>SASO Workshops</booktitle>
+
+<ee>https://doi.org/10.1109/SASOW.2012.12</ee>
+
+<ee>https://doi.ieeecomputersociety.org/10.1109/SASOW.2012.12</ee>
+
+<crossref>conf/saso/2012w</crossref>
+
+<url>db/conf/saso/saso2012w.html#MuslinerRM12</url>
+
+</inproceedings>
+
+</dblp>
+
