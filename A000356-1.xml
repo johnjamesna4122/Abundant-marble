@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+<Clerk.LCS.API.LegislativeData>
+    <data>
+        <usCongressBioId>A000356</usCongressBioId>
+        <familyName>Ashcroft</familyName>
+        <givenName>John</givenName>
+        <middleName>David</middleName>
+        <unaccentedFamilyName>Ashcroft</unaccentedFamilyName>
+        <unaccentedGivenName>John</unaccentedGivenName>
+        <unaccentedMiddleName>David</unaccentedMiddleName>
+        <birthDate>1942</birthDate>
+        <birthCirca>false</birthCirca>
+        <image>
+            <contentUrl>/bioguide-published/assets/51219f7db27b7190d358fc8776cac34a.jpg</contentUrl>
+            <caption>&lt;a href="http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm">Courtesy U.S. Senate Historical Office&lt;/a></caption>
+        </image>
+        <profileText>A Senator from Missouri; born in Chicago, Ill., on May 9, 1942; attended the public schools in Springfield, Missouri; graduated from Yale University 1964; received J.D. degree from University of Chicago School of Law 1967; admitted to the bar in Springfield 1967; taught business law at Southwest Missouri State University; state auditor of Missouri 1973-1975; attorney general of Missouri 1976-1985; Governor of Missouri 1985-1993; chairman of the National Governors Association 1991-1992; elected as a Republican to the United States Senate in 1994 and served from January 3, 1995 to January 3, 2001; unsuccessful candidate for reelection in 2000; attorney general of the United States, 2001-2005.</profileText>
+        <asset>
+            <name>A000356_001</name>
+            <assetType>Image</assetType>
+            <contentUrl>/bioguide-published/assets/51219f7db27b7190d358fc8776cac34a.jpg</contentUrl>
+            <creditLine>&lt;a href="http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm">Courtesy U.S. Senate Historical Office&lt;/a></creditLine>
+            <usageRight>Import to Congress.gov</usageRight>
+            <uploadDate>2024-06-21</uploadDate>
+            <uploadDateISO>Fri Jun 21 2024 18:35:22 GMT+0000 (Coordinated Universal Time)</uploadDateISO>
+        </asset>
+        <jobPositions>
+            <job>
+                <name>Senator</name>
+                <jobType>CongressMemberJob</jobType>
+            </job>
+            <congressAffiliation>
+                <congress>
+                    <name>The 104th United States Congress</name>
+                    <congressNumber>104</congressNumber>
+                    <congressType>USCongress</congressType>
+                    <startDate>1995-01-03</startDate>
+                    <endDate>1997-01-03</endDate>
+                </congress>
+                <partyAffiliation>
+                    <party>
+                        <name>Republican</name>
+                    </party>
+                </partyAffiliation>
+                <caucusAffiliation>
+                    <party>
+                        <name>Republican</name>
+                    </party>
+                </caucusAffiliation>
+                <represents>
+                    <regionType>StateRegion</regionType>
+                    <regionCode>MO</regionCode>
+                </represents>
+            </congressAffiliation>
+            <startCirca>false</startCirca>
+            <startDate>1995-01-03</startDate>
+        </jobPositions>
+        <jobPositions>
+            <job>
+                <name>Senator</name>
+                <jobType>CongressMemberJob</jobType>
+            </job>
+            <congressAffiliation>
+                <congress>
+                    <name>The 105th United States Congress</name>
+                    <congressNumber>105</congressNumber>
+                    <congressType>USCongress</congressType>
+                    <startDate>1997-01-03</startDate>
+                    <endDate>1999-01-03</endDate>
+                </congress>
+                <partyAffiliation>
+                    <party>
+                        <name>Republican</name>
+                    </party>
+                </partyAffiliation>
+                <caucusAffiliation>
+                    <party>
+                        <name>Republican</name>
+                    </party>
+                </caucusAffiliation>
+                <represents>
+                    <regionType>StateRegion</regionType>
+                    <regionCode>MO</regionCode>
+                </represents>
+            </congressAffiliation>
+        </jobPositions>
+        <jobPositions>
+            <job>
+                <name>Senator</name>
+                <jobType>CongressMemberJob</jobType>
+            </job>
+            <congressAffiliation>
+                <congress>
+                    <name>The 106th United States Congress</name>
+                    <congressNumber>106</congressNumber>
+                    <congressType>USCongress</congressType>
+                    <startDate>1999-01-03</startDate>
+                    <endDate>2001-01-03</endDate>
+                </congress>
+                <partyAffiliation>
+                    <party>
+                        <name>Republican</name>
+                    </party>
+                </partyAffiliation>
+                <caucusAffiliation>
+                    <party>
+                        <name>Republican</name>
+                    </party>
+                </caucusAffiliation>
+                <represents>
+                    <regionType>StateRegion</regionType>
+                    <regionCode>MO</regionCode>
+                </represents>
+            </congressAffiliation>
+            <endCirca>false</endCirca>
+            <endDate>2001-01-03</endDate>
+        </jobPositions>
+        <creativeWork>
+            <freeFormCitationText>Ashcroft, John D., with Gary Thomas.&lt;i> Lessons from a Father to his Son&lt;/i>. Nashville: T. Nelson Publishers, 1998.</freeFormCitationText>
+        </creativeWork>
+        <creativeWork>
+            <freeFormCitationText>___. &lt;i>Never Again: Securing America and Restoring Justice&lt;/i>. New York: Center Street, 2006.</freeFormCitationText>
+        </creativeWork>
+        <creativeWork>
+            <freeFormCitationText>___. &lt;i>On My Honor: The Beliefs that Shape My Life&lt;/i>. Nashville: T. Nelson Publishers, 2001.</freeFormCitationText>
+        </creativeWork>
+    </data>
+</Clerk.LCS.API.LegislativeData>

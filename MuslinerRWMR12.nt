@@ -1,0 +1,80 @@
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Inproceedings> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Publication> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <http://www.w3.org/2002/07/owl#sameAs> <https://doi.org/10.1109/SASO.2012.46> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1109/SASO.2012.46> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <http://www.w3.org/2000/01/rdf-schema#label> "David J. Musliner et al.: Automatic Self-Adaptation to Mitigate Software Vulnerabilities: A Fuzzbuster Progress Report (Extended Abstract for Poster). (2012)" .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#doi> <https://doi.org/10.1109/SASO.2012.46> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <http://purl.org/spar/datacite/hasIdentifier> _:ID_b42902a7fdc891f9056617486a21cbfa .
+_:ID_b42902a7fdc891f9056617486a21cbfa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/datacite/ResourceIdentifier> .
+_:ID_b42902a7fdc891f9056617486a21cbfa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/datacite/Identifier> .
+_:ID_b42902a7fdc891f9056617486a21cbfa <http://purl.org/spar/datacite/usesIdentifierScheme> <http://purl.org/spar/datacite/dblp-record> .
+_:ID_b42902a7fdc891f9056617486a21cbfa <http://purl.org/spar/literal/hasLiteralValue> "conf/saso/MuslinerRWMR12" .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <http://purl.org/spar/datacite/hasIdentifier> _:ID_e3566e27a8c6f276cc92832242e29afc .
+_:ID_e3566e27a8c6f276cc92832242e29afc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/datacite/ResourceIdentifier> .
+_:ID_e3566e27a8c6f276cc92832242e29afc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/datacite/Identifier> .
+_:ID_e3566e27a8c6f276cc92832242e29afc <http://purl.org/spar/datacite/usesIdentifierScheme> <http://purl.org/spar/datacite/doi> .
+_:ID_e3566e27a8c6f276cc92832242e29afc <http://purl.org/spar/literal/hasLiteralValue> "10.1109/SASO.2012.46" .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#title> "Automatic Self-Adaptation to Mitigate Software Vulnerabilities: A Fuzzbuster Progress Report (Extended Abstract for Poster)." .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#bibtexType> <http://purl.org/net/nknouf/ns/bibtex#Inproceedings> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/m/DavidJMusliner> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#createdBy> <https://dblp.org/pid/m/DavidJMusliner> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/09/8878> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#createdBy> <https://dblp.org/pid/09/8878> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/123/8649> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#createdBy> <https://dblp.org/pid/123/8649> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/123/8654> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#createdBy> <https://dblp.org/pid/123/8654> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/120/2251> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#createdBy> <https://dblp.org/pid/120/2251> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#numberOfCreators> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#hasSignature> _:Sig_7781a2665951f13dc8beb706c5ab2b3e_1 .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#AuthorSignature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Signature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_1 <https://dblp.org/rdf/schema#signatureDblpName> "David J. Musliner" .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_1 <https://dblp.org/rdf/schema#signatureCreator> <https://dblp.org/pid/m/DavidJMusliner> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_1 <https://dblp.org/rdf/schema#signatureOrdinal> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_1 <https://dblp.org/rdf/schema#signaturePublication> <https://dblp.org/rec/conf/saso/MuslinerRWMR12> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#hasSignature> _:Sig_7781a2665951f13dc8beb706c5ab2b3e_2 .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#AuthorSignature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Signature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_2 <https://dblp.org/rdf/schema#signatureDblpName> "Jeffrey M. Rye" .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_2 <https://dblp.org/rdf/schema#signatureCreator> <https://dblp.org/pid/09/8878> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_2 <https://dblp.org/rdf/schema#signatureOrdinal> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_2 <https://dblp.org/rdf/schema#signaturePublication> <https://dblp.org/rec/conf/saso/MuslinerRWMR12> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#hasSignature> _:Sig_7781a2665951f13dc8beb706c5ab2b3e_3 .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#AuthorSignature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Signature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_3 <https://dblp.org/rdf/schema#signatureDblpName> "Timothy Woods" .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_3 <https://dblp.org/rdf/schema#signatureCreator> <https://dblp.org/pid/123/8649> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_3 <https://dblp.org/rdf/schema#signatureOrdinal> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_3 <https://dblp.org/rdf/schema#signaturePublication> <https://dblp.org/rec/conf/saso/MuslinerRWMR12> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#hasSignature> _:Sig_7781a2665951f13dc8beb706c5ab2b3e_4 .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#AuthorSignature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Signature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_4 <https://dblp.org/rdf/schema#signatureDblpName> "Tom Marble" .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_4 <https://dblp.org/rdf/schema#signatureCreator> <https://dblp.org/pid/123/8654> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_4 <https://dblp.org/rdf/schema#signatureOrdinal> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_4 <https://dblp.org/rdf/schema#signaturePublication> <https://dblp.org/rec/conf/saso/MuslinerRWMR12> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#hasSignature> _:Sig_7781a2665951f13dc8beb706c5ab2b3e_5 .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#AuthorSignature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Signature> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_5 <https://dblp.org/rdf/schema#signatureDblpName> "Kevin Raison" .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_5 <https://dblp.org/rdf/schema#signatureCreator> <https://dblp.org/pid/120/2251> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_5 <https://dblp.org/rdf/schema#signatureOrdinal> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:Sig_7781a2665951f13dc8beb706c5ab2b3e_5 <https://dblp.org/rdf/schema#signaturePublication> <https://dblp.org/rec/conf/saso/MuslinerRWMR12> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#primaryDocumentPage> <https://doi.org/10.1109/SASO.2012.46> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#documentPage> <https://doi.org/10.1109/SASO.2012.46> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#documentPage> <https://doi.ieeecomputersociety.org/10.1109/SASO.2012.46> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#listedOnTocPage> <https://dblp.org/db/conf/saso/saso2012> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#publishedInStream> <https://dblp.org/streams/conf/saso> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#pagination> "235-236" .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#publishedIn> "SASO" .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#publishedInBook> "SASO" .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#yearOfEvent> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#yearOfPublication> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12> <https://dblp.org/rdf/schema#publishedAsPartOf> <https://dblp.org/rec/conf/saso/2012> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12.nt> <http://www.w3.org/2000/01/rdf-schema#label> "provenance information for RDF data of dblp record 'conf/saso/MuslinerRWMR12'" .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12.nt> <http://purl.org/dc/terms/creator> <https://dblp.org> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12.nt> <http://purl.org/dc/terms/isPartOf> <https://dblp.org/rdf/dblp.nt> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12.nt> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> .
+<https://dblp.org/rec/conf/saso/MuslinerRWMR12.nt> <http://purl.org/dc/terms/modified> "2023-03-24T00:01:55+0100" .

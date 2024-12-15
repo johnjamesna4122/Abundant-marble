@@ -1,0 +1,21 @@
+Provider: Schloss Dagstuhl - Leibniz Center for Informatics
+Database: dblp computer science bibliography
+Content:text/plain; charset="utf-8"
+
+TY  - CPAPER
+ID  - DBLP:conf/saso/MuslinerRWMR12
+AU  - Musliner, David J.
+AU  - Rye, Jeffrey M.
+AU  - Woods, Timothy
+AU  - Marble, Tom
+AU  - Raison, Kevin
+TI  - Automatic Self-Adaptation to Mitigate Software Vulnerabilities: A Fuzzbuster Progress Report (Extended Abstract for Poster).
+BT  - Sixth IEEE International Conference on Self-Adaptive and Self-Organizing Systems, SASO 2012, Lyon, France, September 10-14, 2012
+SP  - 235
+EP  - 236
+PY  - 2012//
+DO  - 10.1109/SASO.2012.46
+UR  - https://doi.org/10.1109/SASO.2012.46
+UR  - https://doi.ieeecomputersociety.org/10.1109/SASO.2012.46
+ER  -
+
